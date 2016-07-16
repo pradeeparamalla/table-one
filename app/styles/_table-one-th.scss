@@ -1,0 +1,23 @@
+th {
+    text-align: center;
+}
+
+.table-bordered > {
+    thead > tr > {
+        th,
+        td {
+            &.drop-col-left {
+                border-left: 3px solid green;
+            }
+            &.drop-col-right {
+                border-right: 3px solid green;
+            }
+            &.drop-col-top {
+                border-top: 3px solid green;
+            }
+            &.drop-col-bottom {
+                border-bottom: 3px solid green;
+            }
+        }
+    }
+}

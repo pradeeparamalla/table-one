@@ -1,0 +1,12 @@
+<table class="table table-bordered">
+    <thead>
+        <tr ng-repeat="level in levels">
+            <th table-one-th ng-repeat="column in level"  dropobj="dropobj" refresh="refresh()" column="column"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="row in table.rows">
+            <td>{{row.name_s}}</td>
+        </tr>
+    </tbody>
+</table>
