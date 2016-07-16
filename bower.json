@@ -3,8 +3,6 @@
     "version": "0.0.1",
     "description": "This directive allows you to create rich tables with AngularJS.",
     "author": "https://github.com/pradeeparamalla",
-    "license": "MIT",
-    "main": "app/index.js",
     "dependencies": {
         "jquery": "~2.2.3",
         "angular": "^1.5.6",
