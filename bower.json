@@ -1,8 +1,14 @@
 {
-    "name": "table-one",
-    "version": "0.0.1",
+    "name": "tableone",
+    "version": "0.0.3",
     "description": "This directive allows you to create rich tables with AngularJS.",
     "author": "https://github.com/pradeeparamalla",
+    "license": "MIT",
+    "main": "app/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pradeeparamalla/table-one"
+    },
     "dependencies": {
         "jquery": "~2.2.3",
         "angular": "^1.5.6",

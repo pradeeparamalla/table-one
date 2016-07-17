@@ -1,6 +1,6 @@
 {
   "name": "tableone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This directive allows you to create rich tables with AngularJS.",
   "author": "https://github.com/pradeeparamalla",
   "license": "MIT",
