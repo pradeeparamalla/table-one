@@ -5,6 +5,10 @@
     "author": "https://github.com/pradeeparamalla",
     "license": "MIT",
     "main": "app/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pradeeparamalla/table-one"
+    },
     "devDependencies": {
         "grunt": "^0.4.5",
         "grunt-angular-templates": "^0.5.7",
